@@ -1,3 +1,4 @@
+// Build trigger: 2026-06-16
 import { createFileRoute } from "@tanstack/react-router";
 import { useState, useEffect } from "react";
 import { ArrowRight, X, Play, MapPin, Instagram, Facebook, Ghost } from "lucide-react";
